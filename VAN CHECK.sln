@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAN CHECK", "VAN CHECK.csproj", "{CACFC7B7-7B77-457D-809D-26EF22724861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACFC7B7-7B77-457D-809D-26EF22724861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACFC7B7-7B77-457D-809D-26EF22724861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACFC7B7-7B77-457D-809D-26EF22724861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACFC7B7-7B77-457D-809D-26EF22724861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79A1D29-F9CE-4031-9022-A783124ED4A4}
+	EndGlobalSection
+EndGlobal
